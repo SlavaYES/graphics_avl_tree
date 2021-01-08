@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/dorchester/CLionProjects/avl_tree/Tree.h
+SFML/Graphics.hpp
+-
+string
+-
+
+/home/dorchester/CLionProjects/avl_tree/main.cpp
+iostream
+-
+SFML/Graphics.hpp
+-
+unistd.h
+-
+Tree.h
+/home/dorchester/CLionProjects/avl_tree/Tree.h
+

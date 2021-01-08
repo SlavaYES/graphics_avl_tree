@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/avl_tree.dir/main.cpp.o CMakeFiles/avl_tree.dir/Tree.cpp.o  -o avl_tree  /usr/lib/x86_64-linux-gnu/libsfml-graphics.so.2.5.1 /usr/lib/x86_64-linux-gnu/libsfml-window.so.2.5.1 /usr/lib/x86_64-linux-gnu/libsfml-system.so.2.5.1 
